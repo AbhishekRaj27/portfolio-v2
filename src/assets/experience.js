@@ -19,7 +19,7 @@ export const experience = [
     },
     {
         designation: "Full stack developer",
-        company: "NSUT, Delhi",
+        company: "TnP(NSUT, Delhi)",
         from: "May 2022",
         to: "July 2022",
         description:

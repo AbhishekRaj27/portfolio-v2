@@ -19,7 +19,7 @@ const Socials = () => {
         <div className="flex items-center justify-center ">
             <a
                 aria-label="instagram"
-                href="https://www.instagram.com/_nitishgupta/"
+                href="https://www.instagram.com/abhishek.raj06/"
                 target="_blank"
                 rel="noreferrer"
                 className="mx-3 my-10 transition-all duration-100 ease-linear  hover:text-accentDark md:my-0"
@@ -28,7 +28,7 @@ const Socials = () => {
             </a>
             <a
                 aria-label="twitter"
-                href="https://twitter.com/_nitishgupta"
+                href="https://twitter.com/ABHISHE26491750"
                 target="_blank"
                 rel="noreferrer"
                 className="mx-3  my-10 transition-all duration-100 ease-linear  hover:text-accentDark md:my-0"
@@ -37,7 +37,7 @@ const Socials = () => {
             </a>
             <a
                 aria-label="github"
-                href="https://github.com/nitishgupta08"
+                href="https://github.com/AbhishekRaj27"
                 target="_blank"
                 rel="noreferrer"
                 className="mx-3 my-10 transition-all duration-100 ease-linear  hover:text-accentDark md:my-0"
@@ -46,7 +46,7 @@ const Socials = () => {
             </a>
             <a
                 aria-label="linkedin"
-                href="https://www.linkedin.com/in/nitishgupta24/"
+                href="https://www.linkedin.com/in/abhishek-raj-52671b1b0/"
                 target="_blank"
                 rel="noreferrer"
                 className="mx-3 my-10 transition-all duration-100 ease-linear hover:text-accentDark md:my-0"

@@ -1,81 +1,27 @@
 export const projectsArchive = [
     {
-        title: 'ListApp',
+        title: "MERN-Blog",
         linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/list-app',
-        date: 'May 2023',
-        tags: ['Typescript']
-
+        githubLink:
+            "https://github.com/AbhishekRaj27/https---github.com-AbhishekRaj27-MERN-Blog",
+        date: "May 2023",
+        tags: ["ReactJS", "NodeJS", "MongoDB", "Express"],
     },
+
     {
-        title: 'MERN Auth',
+        title: "Segment Tree",
         linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/mern-auth',
-        date: 'May 2023',
-        tags: ['MERN', 'Redux', 'JWT', 'bcryptjs', 'cookie-parser']
-
-    },
-    {
-        title: 'CodeForges',
-        linklink: 'https://codeforges.netlify.app/',
-        githubLink: 'https://github.com/nitishgupta08/CodeForges',
-        date: 'Jan 2023',
-        tags: ['ReactJS', 'NodeJS', 'MongoDB', 'MUI', 'Codemirror']
-
-    },
-    {
-        title: 'Weather App',
-        linklink: 'https://weather-app-dqd4.onrender.com/',
-        githubLink: 'https://github.com/nitishgupta08/weather-app',
-        date: 'Sept 2022',
-        tags: ['NodeJS', 'Handlebars']
+        githubLink: "https://github.com/AbhishekRaj27/SegTree",
+        date: "Sept 2021",
+        tags: ["C++"],
     },
 
     {
-        title: 'MQTT demonstration',
-        livelink: null,
-        githubLink: 'https://github.com/nitishgupta08/iotproject',
-        date: 'Mar 2022',
-        tags: ['ReactJS', 'MQTT']
-    },
-
-    {
-        title: 'v1 portfolio',
-        linklink: 'https://v1-nitishgupta.netlify.app/',
-        githubLink: 'https://github.com/nitishgupta08/portfolio',
-        date: 'Feb 2022',
-        tags: ['ReactJS']
-    },
-
-    {
-        title: 'Travelling Salesman Problem',
+        title: "Student Management System",
         linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/travelling-salesman-problem',
-        date: 'Oct 2021',
-        tags: ['Python', 'Hill Climbing']
+        githubLink:
+            "https://github.com/AbhishekRaj27/Student-Management-System",
+        date: "Aug 2020",
+        tags: ["Python", "MySQL"],
     },
-
-    {
-        title: 'Terminal tic-tac-toe',
-        linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/Algorithms/blob/main/tictactoe.py',
-        date: 'Sept 2021',
-        tags: ['Python']
-    },
-
-    {
-        title: 'University Management System',
-        linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/University-Management-System',
-        date: 'Sept 2020',
-        tags: ['Java', 'MySQL']
-    },
-
-    {
-        title: 'Bank Management System',
-        linklink: null,
-        githubLink: 'https://github.com/nitishgupta08/Bank-Management-System',
-        date: 'Aug 2020',
-        tags: ['Java', 'MySQL']
-    },
-]
+];
