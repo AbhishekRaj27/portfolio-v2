@@ -15,7 +15,7 @@ export const experience = [
         to: "July 2023",
         description:
             "Enhanced a communication platform for improved internal collaboration. Designed a responsive React search bar for swift user search autocomplete and implemented a dynamic chat loading system, facilitating message retrieval of up to 100 messages. Contributed to a React dashboard project, optimizing intern activity management with a secure login portal. Collaborated closely with the web development team to seamlessly integrate the dashboard with existing systems and databases, enhancing progress tracking efficiency.",
-        tags: ["ReactJS", "Javascript", "MySQL", "MUI"],
+        tags: ["ReactJS", "NodeJs", "Javascript", "MySQL", "C/C++"],
     },
     {
         designation: "Full stack developer",
@@ -23,7 +23,7 @@ export const experience = [
         from: "May 2022",
         to: "July 2022",
         description:
-            "Built multiple user interface elements, including a homepage, login/registration screen, dashboard, options chain and other number of features, like an account management interface, a paper trading platform and an options chain system. Wrote several APIs to retrieve data from MySQL after having it undergo some computations based on business need for use in strategy execution, options trading, and paper trading.",
-        tags: ["ReactJS", "Django", "MySQL", "MUI"],
+            "I contributed to the development of a vital website for our college's Training and Placement Society. This platform enables companies to post internships and job opportunities for NSUT students. My responsibilities encompassed crafting user-friendly profile pages for students and companies, integrating 10+ APIs, and creating essential UI components. I also designed and implemented various user interface elements, including a homepage, login screen, dashboards, and additional features like an account management interface.",
+        tags: ["ReactJS", "NodeJs", "MongoDB", "Express", "Javascript"],
     },
 ];

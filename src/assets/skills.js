@@ -22,6 +22,5 @@ export const packages = [
 ];
 
 export const dsa = [
-    { name: "Leetcode", link: "https://leetcode.com/nitishgupta24/" },
-    { name: "Codeforces", link: "https://codeforces.com/profile/ghost8_" },
+    // { name: "Leetcode", link: "https://leetcode.com/nitishgupta24/" },
 ];
